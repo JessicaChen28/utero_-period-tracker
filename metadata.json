@@ -1,0 +1,7 @@
+{
+  "name": "Utero: Period Tracker",
+  "description": "An intelligent period tracker that provides calendar predictions, personalized nutrition advice, symptom tracking, and menstrual product recommendations using AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
